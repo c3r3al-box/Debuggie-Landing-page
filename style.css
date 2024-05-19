@@ -6,6 +6,7 @@ body {
     padding:
 }
 .container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
@@ -14,6 +15,7 @@ body {
 .services{
     background-color: aliceblue;
     max-width: 1000px;
+    font-family: cursive;
     margin:0 auto;
     padding:20px;
 }
@@ -79,7 +81,7 @@ footer{
 }
 
 footer p{
-    color: #666;
+    color: #1c1b1b;
 }
 
 body {
