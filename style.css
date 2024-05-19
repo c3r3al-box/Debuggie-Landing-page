@@ -1,0 +1,117 @@
+body {
+    background-image: url("C:\Users\User\Desktop\Debuggie\background.jpg");
+    height: auto;
+    font-family: sans-serif;
+    margin: 0;
+    padding:
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.services{
+    background-color: aliceblue;
+    max-width: 1000px;
+    margin:0 auto;
+    padding:20px;
+}
+
+header {
+    background-color: azure;
+    padding: 10px 0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color:navy;
+    float: left;
+    text-decoration-color: none;
+}
+
+nav{
+    float:right;
+}
+nav ul{
+    list-style: georgian;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color:#333;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.hero p{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+.button{
+    background-color: rgb(125, 188, 239);
+    color: rgb(40, 40, 57);
+    padding: 5px 5px;
+    border: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer{
+    background-color: rgb(68, 134, 160);
+    padding: 10px 10px;
+    text-align: center;
+}
+
+footer p{
+    color: #666;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+  }
+  
+ 
+
+  
+  h1 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+.part2{
+    background-color: rgb(205, 217, 253);
+    
+}
+.part3{
+    background-color:rgb(139,184,175) ;
+}
